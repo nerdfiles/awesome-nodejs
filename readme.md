@@ -285,8 +285,8 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
-- [docopt](http://docopt.org/) - CLI description language
-- [pryjs](https://github.com/blainesch/pry.js) - REPL for Node
+- [docopt](http://docopt.org/) - CLI description language.
+- [pryjs](https://github.com/blainesch/pry.js) - REPL for Node.
 
 
 ### Build tools
@@ -499,9 +499,9 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [algebra](https://github.com/fibo/algebra) - Algebraic structures.
 
 
-### RegEx
+### Regular Expressions
 
-- [regex-fun](https://github.com/TehShrike/regex-fun) - Build RegEx with functions
+- [regex-fun](https://github.com/TehShrike/regex-fun) - Build RegEx with functions.
 
 
 ### Date
