@@ -285,6 +285,8 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+- [docopt](http://docopt.org/) - CLI description language
+- [pryjs](https://github.com/blainesch/pry.js) - REPL for Node
 
 
 ### Build tools
@@ -497,6 +499,11 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [algebra](https://github.com/fibo/algebra) - Algebraic structures.
 
 
+### RegEx
+
+- [regex-fun](https://github.com/TehShrike/regex-fun) - Build RegEx with functions
+
+
 ### Date
 
 - [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
@@ -635,6 +642,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [WebdriverIO](http://webdriver.io) - Automated testing based on the WebDriver protocol.
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
+- [cucumber-js](https://github.com/jbpros/cucumber-js-example/blob/master/features/step_definitions/google_steps.js#L5) - Gherkin Style testing.
 
 
 ### Security
